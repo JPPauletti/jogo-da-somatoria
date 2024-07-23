@@ -2,6 +2,13 @@
 
 Este projeto é um jogo de cartas onde dois jogadores, Maria e Joaquim, retiram cartas alternadamente até completarem 10 cartas no total (5 para cada) ou até que um deles retire um coringa. O objetivo é calcular a pontuação total das cartas e determinar o vencedor.
 
+## Tecnologias Utilizadas
+
+- **Linguagem de Programação**: JavaScript
+- **Biblioteca Front-end**: [React](https://reactjs.org/)
+- **Gerenciador de Pacotes**: [npm](https://www.npmjs.com/)
+- **API de Cartas**: [Deck of Cards API](https://deckofcardsapi.com/)
+
 ## Requisitos
 
 - [Node.js](https://nodejs.org/) (recomenda-se a versão LTS)
