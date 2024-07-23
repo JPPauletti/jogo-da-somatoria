@@ -1,0 +1,67 @@
+.jogo {
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 80vh;
+    justify-content: center;
+}
+
+.cartas-maria,
+.cartas-joaquim {
+    margin: 20px;
+    background-color: #65ce65;
+    width: 425px;
+    height: 110px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    border-radius: 8px;
+}
+
+.mesa img {
+    width: 80px;
+    height: auto;
+}
+
+.cartas-jogador img {
+    width: 80px;
+    height: 111.14px;
+    margin: 2px;
+}
+
+body {
+    background-color: #0c810c;
+    margin: 0;
+    padding: 0;
+    height: 100;
+    color: #ffffff;
+}
+
+.texto-esquerda {
+    text-align: left;
+}
+
+.texto-direita {
+    text-align: right;
+}
+
+button {
+    background-color: #4CAF50;
+    border: none;
+    color: #ffffff;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 10px 2px;
+    cursor: pointer;
+    border-radius: 12px;
+}
+
